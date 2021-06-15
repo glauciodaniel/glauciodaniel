@@ -43,7 +43,7 @@
         <img alt="My Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=glauciodaniel&color=FF7704">
     </a>
     <a href="mailto:glauciodaniel@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=glaucio@hcode.com.br&color=FF7704">
+        <img alt="Gmail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=glauciodaniel@gmail.com&color=FF7704">
     </a>
 </p>
 
