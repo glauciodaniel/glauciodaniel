@@ -78,7 +78,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/guilhermedsribeiro/">
+  <a href="https://github.com/glauciodaniel/">
     <img height="180em" alt="glauciodaniel stats" src="https://github-readme-stats.vercel.app/api?username=glauciodaniel&show_icons=true&bg_color=DEG,555555,9e7d57&theme=react" style="max-width:100%;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glauciodaniel&layout=compact&theme=react&line_height=27&bg_color=DEG,555555,9e7d57" style="max-width:100%;">
   </a>
