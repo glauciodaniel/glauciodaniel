@@ -4,7 +4,7 @@
   <h1> Santos</h1>
 <blockquote><img alt="CEO" src="https://img.shields.io/badge/-CEO%20em%20Hcode-6633cc?style=flat-square&amp;logoColor=white&amp;color=555555"> <img alt="Senior Full Stack" src="https://img.shields.io/badge/-Senior%20Full%20Stack-6633cc?style=flat-square&amp;logo=Polymer-Project&amp;logoColor=white&amp;color=555555"></blockquote>
   
-<div align="right">
+<div align="left">
   <h2>🎯 Soft Skills</h2>
     <li>Liderança</li>
     <li>Comunicação</li>
