@@ -1,6 +1,6 @@
 <div align="center">
   <img align="center" src="https://user-images.githubusercontent.com/85960784/122116051-83ffd900-cdfb-11eb-969f-b419d5ddf521.png" style="width:200px; height:200px; border: 50px; max-width:100%;">
-  <h2>Glaucio <img alt="headgehog" src="https://user-images.githubusercontent.com/61317250/118311580-7ab2e200-b4c6-11eb-98f5-0495e8e5a7cc.gif"> Daniel</h2>
+  <h2>Glaucio Daniel<img alt="headgehog" src="https://user-images.githubusercontent.com/61317250/118311580-7ab2e200-b4c6-11eb-98f5-0495e8e5a7cc.gif"></h2>
   <h1> Santos</h1>
 <blockquote><img alt="CEO" src="https://img.shields.io/badge/-CEO%20em%20Hcode-6633cc?style=flat-square&amp;logoColor=white&amp;color=555555"> <img alt="Senior Full Stack" src="https://img.shields.io/badge/-Senior%20Full%20Stack-6633cc?style=flat-square&amp;logo=Polymer-Project&amp;logoColor=white&amp;color=555555"></blockquote>
   
